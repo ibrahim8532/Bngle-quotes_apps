@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:title="@string/communication">
+
+        <item
+            android:id="@+id/more_app"
+            android:title="@string/more_app"
+            android:icon="@drawable/more"/>
+        <item
+            android:id="@+id/rate"
+            android:title="@string/rate"
+            android:icon="@drawable/rate"/>
+        <item
+            android:id="@+id/share"
+            android:title="@string/Share"
+            android:icon="@drawable/share"/>
+        <item
+            android:id="@+id/privacy_policy"
+            android:title="@string/privacy_policy"
+            android:icon="@drawable/privacy"/>
+        <item
+            android:id="@+id/terms"
+            android:title="@string/terms_conditions"
+            android:icon="@drawable/terms"/>
+
+    </group>
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931602180803",
+    "project_id": "bengali-quotes-apps",
+    "storage_bucket": "bengali-quotes-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931602180803:android:0a5c498f75fe41932c1076",
+        "android_client_info": {
+          "package_name": "com.ib.quotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931602180803-lffq9tmo9ef7bj48v0dv53dno62je6oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqXUFZAoSFpLZv07rh-wYatJ-MslnzHZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931602180803-lffq9tmo9ef7bj48v0dv53dno62je6oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
